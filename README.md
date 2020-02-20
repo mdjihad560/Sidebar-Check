@@ -1,0 +1,10 @@
+# Sidebar-Check
+
+<?php 
+	$alpha_layout_class = 'col-lg-8';
+	$alpha_text_center = '';
+	if (!is_active_sidebar('sidebar-1')) {
+		$alpha_layout_class = 'col-lg-10 offset-lg-1';
+		$alpha_text_center = 'text-center';
+	}
+ ?>
