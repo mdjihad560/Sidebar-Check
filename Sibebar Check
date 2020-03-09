@@ -1,4 +1,4 @@
-# Sidebar-Check
+Sidebar Check
 
 <?php 
 	$alpha_layout_class = 'col-lg-8';
